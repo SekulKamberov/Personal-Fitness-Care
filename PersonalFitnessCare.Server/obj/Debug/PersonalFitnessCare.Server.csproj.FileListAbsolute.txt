@@ -1,0 +1,651 @@
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\csc.exe
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\vbc.exe
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\EntityFramework.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Owin.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Cors.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Helpers.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Http.Cors.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Http.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Mvc.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Optimization.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Razor.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.WebPages.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\WebGrease.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Http.Cors.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Helpers.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Http.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Mvc.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Optimization.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Razor.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.WebPages.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\EntityFramework.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.csprojResolveAssemblyReference.cache
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll.config
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.pdb
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll.config
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\EntityFramework.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Owin.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Cors.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Helpers.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Cors.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Http.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Mvc.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Optimization.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Razor.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\WebGrease.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Cors.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Helpers.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Http.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Mvc.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Optimization.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Razor.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.pdb
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\EntityFramework.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll.config
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\EntityFramework.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Owin.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Cors.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Helpers.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Cors.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Http.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Mvc.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Optimization.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Razor.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\WebGrease.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.pdb
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Cors.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Helpers.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Http.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Mvc.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Optimization.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Razor.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\EntityFramework.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.csprojResolveAssemblyReference.cache
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.pdb
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll.config
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.pdb
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\EntityFramework.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Owin.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Cors.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Helpers.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Cors.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Http.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Mvc.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Optimization.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Razor.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\WebGrease.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.pdb
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Cors.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Helpers.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Http.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Mvc.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Optimization.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Razor.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\EntityFramework.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.csprojResolveAssemblyReference.cache
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\AutoMapper.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Server\bin\AutoMapper.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll.config
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\AutoMapper.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\EntityFramework.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Owin.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Cors.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Helpers.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Cors.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Http.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Mvc.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Optimization.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Razor.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\WebGrease.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.pdb
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\AutoMapper.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Cors.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Helpers.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Http.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Mvc.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Optimization.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Razor.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\EntityFramework.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll.config
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\AutoMapper.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\EntityFramework.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Owin.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Cors.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Helpers.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Mvc.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Optimization.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Razor.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\WebGrease.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.pdb
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\AutoMapper.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Helpers.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Mvc.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Optimization.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Razor.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\EntityFramework.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.csprojResolveAssemblyReference.cache
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll.config
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.pdb
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\AutoMapper.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\EntityFramework.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Owin.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Cors.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Helpers.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Mvc.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Optimization.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Razor.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\WebGrease.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Antlr3.Runtime.pdb
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\AutoMapper.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Newtonsoft.Json.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Helpers.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Mvc.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Optimization.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Razor.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\EntityFramework.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\EntityFramework.SqlServer.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\bin\System.Web.Http.Owin.xml
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.csprojResolveAssemblyReference.cache
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.dll
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.pdb
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.Migrations.First.resources
+C:\Users\Valeriya\Desktop\ASP.NET Web API\PFC - 03.11.2017\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.csproj.GenerateResource.Cache
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll.config
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Antlr3.Runtime.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\AutoMapper.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\EntityFramework.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\EntityFramework.SqlServer.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Owin.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Cors.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Helpers.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Http.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Http.Owin.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Mvc.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Optimization.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Razor.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.WebPages.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\WebGrease.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Antlr3.Runtime.pdb
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\AutoMapper.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Cors.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Helpers.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Http.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Mvc.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Optimization.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Razor.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.WebPages.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\EntityFramework.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\EntityFramework.SqlServer.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\bin\System.Web.Http.Owin.xml
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.Migrations.First.resources
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.csproj.GenerateResource.Cache
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PFC - sony\TheBigCatProject.Server\obj\Debug\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\PersonalFitnessCare.Server.dll.config
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\PersonalFitnessCare.Server.pdb
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Antlr3.Runtime.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\AutoMapper.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\EntityFramework.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\EntityFramework.SqlServer.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Cors.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Owin.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Net.Http.Formatting.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Cors.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Helpers.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Http.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Http.Owin.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Http.WebHost.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Mvc.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Optimization.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Razor.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.WebPages.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.WebPages.Razor.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\WebGrease.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Antlr3.Runtime.pdb
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\AutoMapper.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Cors.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Net.Http.Formatting.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Helpers.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Http.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Http.WebHost.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Mvc.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Optimization.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Razor.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.WebPages.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.WebPages.Razor.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\EntityFramework.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\EntityFramework.SqlServer.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\bin\System.Web.Http.Owin.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\obj\Debug\PersonalFitnessCare.Server.Migrations.First.resources
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\obj\Debug\PersonalFitnessCare.Server.csproj.GenerateResource.Cache
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\obj\Debug\PersonalFitnessCare.Server.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Server\obj\Debug\PersonalFitnessCare.Server.pdb

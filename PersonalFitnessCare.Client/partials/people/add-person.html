@@ -1,0 +1,47 @@
+﻿<div class="row">
+    <div class="col-md-6">
+        <form class="form-horizontal" name="personForm">
+            <fieldset>
+                <legend>Add Your Cat</legend>
+                <div class="text-center error" ng-show="personForm.$invalid && personForm.$dirty">Form is not valid!</div>
+                <div class="form-group">
+                    <label for="name" class="col-lg-2 control-label">Name</label>
+                    <div class="col-lg-10">
+                        <input type="text" ng-model="person.name" class="form-control" id="name" required="required" placeholder="Name">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="age" class="col-lg-2 control-label">Age</label>
+                    <div class="col-lg-10">
+                        <input type="number" ng-model="person.age" class="form-control" id="age" required="required" placeholder="Age">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="url" class="col-lg-2 control-label">Image</label>
+                    <div class="col-lg-10">
+                        <input type="url" ng-model="person.url" class="form-control" id="url" placeholder="Image">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="breed" class="col-lg-2 control-label">Body Type</label>
+                    <div class="col-lg-10">
+                        <select class="form-control" ng-model="person.bodyType" id="bodyType">
+                            <option value="">Select body type</option>
+                            <option value="0">Fat</option>
+                            <option value="1">Slim</option>
+                            <option value="2">Muscular</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-lg-10 col-lg-offset-2">
+                        <button ng-click="vm.addPerson(person, personForm)" ng-disabled="personForm.$invalid" class="btn btn-primary">Submit</button>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+    <div class="col-md-6 image-container">
+        <img ng-src="{{person.url}}" />
+    </div>
+</div>

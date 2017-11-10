@@ -1,0 +1,135 @@
+﻿<div class="container">
+    <div class="personal">
+        <div class="col-md-12">
+            <form class="form-horizontal templatemo-login-form-2 personal" name="personalDetais">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>Your Professional Care</h1>
+                        <h2>Please, add your details</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="templatemo-one-signin col-md-6">
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <label for="experience" class="control-label">Fitness experience</label>
+                                <div class="templatemo-input-icon-container">
+                                    <select class="form-control" ng-model="data.experience" id="experience">
+                                        <option value="">Select level</option>
+                                        <option value="0">Beginner</option>
+                                        <option value="1">Intermediate</option>
+                                        <option value="2">Advanced</option>
+                                        <!--<option value="3">Professional</option>-->
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <label for="intensity" class="control-label">Intensity level</label>
+                                <div class="templatemo-input-icon-container">
+                                    <select class="form-control" ng-model="data.intensity" id="intensity">
+                                        <option value="">Select level</option>
+                                        <option value="0">Slow</option>
+                                        <option value="1">Middle</option>
+                                        <option value="2">Fantastic</option>
+                                        <!--<option value="3">Professional</option>
+                                        <option value="4">Extreame</option>-->
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <label for="workouts" class="control-label">Weekly workouts</label>
+                                <div class="templatemo-input-icon-container">
+                                    <i class="fa fa-user"></i>
+                                    <input type="number" ng-model="data.workouts" class="form-control" id="workouts" required="required" placeholder="workouts">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <label for="goaltime" class="control-label">Months for your goals</label>
+                                <div class="templatemo-input-icon-container">
+                                    <i class="fa fa-user"></i>
+                                    <input type="number" ng-model="data.goaltime" class="form-control" id="goaltime" required="required" placeholder="goaltime">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <label for="objectives" class="control-label">Your objectives</label>
+                                <div class="templatemo-input-icon-container">
+                                    <select class="form-control" ng-model="data.objectives" id="objectives">
+                                        <option value="">Select objectives</option>
+                                        <option value="0">Slim</option>
+                                        <option value="1">Muscles</option>
+                                        <option value="2">Both</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="templatemo-other-signin col-md-6">
+
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <label for="activity" class="control-label">Your Sport</label>
+                                <div class="templatemo-input-icon-container">
+                                    <select class="form-control" ng-model="data.activity" id="activity">
+                                        <option value="">Select activity</option>
+                                        <option value="0">Running</option>
+                                        <option value="1">Bodybuilding</option>
+                                        <option value="2">Both</option>
+                                        <option value="3">Swiming</option>
+                                        <option value="4">Box</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <label for="cardioActivity" class="control-label">Cardio training</label>
+                                <div class="templatemo-input-icon-container">
+                                    <select class="form-control" ng-model="data.cardioActivity" id="cardioActivity">
+                                        <option value="">Select cardioActivity</option>
+                                        <option value="0">Running</option>
+                                        <option value="1">Bodybuilding</option>
+                                        <option value="2">Both</option>
+                                        <option value="3">Swiming</option>
+                                        <option value="4">Box</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-12">
+                                <label for="password" class="control-label">Tell us more about you</label>
+                                <textarea class="form-control form-rounded" rows="10"></textarea>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-lg-5 col-md-offset-4">
+                        <button ng-click="vm.addDetails(data, personalDetais)" ng-disabled="personalDetais.$invalid" class="btn btn-primary">Submit</button>
+                    </div>
+                </div>
+            </form>
+
+
+
+        </div>
+    </div>
+</div>

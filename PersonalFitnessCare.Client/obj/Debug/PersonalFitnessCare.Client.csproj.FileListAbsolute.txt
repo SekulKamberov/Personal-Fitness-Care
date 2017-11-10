@@ -1,0 +1,211 @@
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\csc.exe
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\vbc.exe
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll.config
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.pdb
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\obj\Debug\PersonalFitnessCare.Client.csprojResolveAssemblyReference.cache
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare 23.09.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.pdb
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\csc.exe
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\vbc.exe
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll.config
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.pdb
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll.CodeAnalysisLog.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll.lastcodeanalysissucceeded
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.dll
+\\Mac\Home\Shared\Personal Fitness Care DEV\PersonalFitnessCare Working 26.09.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.pdb
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.pdb
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\csc.exe
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\vbc.exe
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll.config
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.pdb
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PersonalFitnessCare Working 11.10.2017\TheBigCatProject.Client\obj\Debug\PersonalFitnessCare.Client.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\csc.exe
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\vbc.exe
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll.config
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.pdb
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.dll
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.pdb
+C:\Users\sekul\Desktop\PFC WORKS OK 16.10.2017\TheBigCatProject.Client\obj\Debug\PersonalFitnessCare.Client.csprojResolveAssemblyReference.cache
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\csc.exe
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\vbc.exe
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll.config
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.pdb
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\obj\Debug\PersonalFitnessCare.Client.csprojResolveAssemblyReference.cache
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.dll
+C:\Users\Sekul\Desktop\Home\PFC - 21.10.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.pdb
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\csc.exe
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\vbc.exe
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll.config
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.pdb
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\obj\Debug\PersonalFitnessCare.Client.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.pdb
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\System.Web.Cors.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\System.Web.Http.Cors.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\System.Web.Http.dll
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\System.Web.Http.xml
+C:\Users\sekul\Desktop\PFC - 22.10.2017\TheBigCatProject.Client\bin\System.Web.Http.Cors.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\csc.exe
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\vbc.exe
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll.config
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\TheBigCatProject.Client.pdb
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\System.Web.Cors.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\System.Web.Http.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\bin\System.Web.Http.xml
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.dll
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\obj\Debug\TheBigCatProject.Client.pdb
+C:\Users\sekul\Desktop\PFC - 03.11.2017\TheBigCatProject.Client\obj\Debug\PersonalFitnessCare.Client.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\csc.exe
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\vbc.exe
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\PersonalFitnessCare.Client.dll.config
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\PersonalFitnessCare.Client.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\PersonalFitnessCare.Client.pdb
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\System.Web.Cors.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\System.Web.Http.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\bin\System.Web.Http.xml
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\obj\Debug\PersonalFitnessCare.Client.csprojResolveAssemblyReference.cache
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\obj\Debug\PersonalFitnessCare.Client.dll
+C:\Users\sekul\Desktop\PFC\TheBigCatProject.Client\obj\Debug\PersonalFitnessCare.Client.pdb
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\csc.exe
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\vbc.exe
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\VBCSCompiler.exe
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\PersonalFitnessCare.Client.dll.config
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\PersonalFitnessCare.Client.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\PersonalFitnessCare.Client.pdb
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\Newtonsoft.Json.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\System.Net.Http.Formatting.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\System.Web.Cors.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\System.Web.Http.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\Newtonsoft.Json.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\System.Net.Http.Formatting.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\bin\System.Web.Http.xml
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\obj\Debug\PersonalFitnessCare.Client.dll
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\obj\Debug\PersonalFitnessCare.Client.pdb
+C:\Users\sekul\Desktop\PFC\PersonalFitnessCare.Client\obj\Debug\PersonalFitnessCare.Client.csprojResolveAssemblyReference.cache

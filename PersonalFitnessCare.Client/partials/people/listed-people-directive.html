@@ -1,0 +1,10 @@
+﻿<div class="row">
+    <div class="col-md-4" ng-repeat="person in vm.people">
+        <div>
+            <h3>{{person.Name}} - {{person.Age}}</h3>
+        </div>
+        <div class="image-container">
+            <img ng-src="{{person.Url}}" />
+        </div>
+    </div>
+</div>

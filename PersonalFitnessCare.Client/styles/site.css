@@ -1,0 +1,26 @@
+﻿body {
+    margin-top: 60px;
+}
+
+.error {
+    color: purple;
+}
+.login {
+    margin-top: 20%;
+}
+
+.register {
+    margin-top: 9%;
+}
+
+.personal {
+    margin-top: 7%;
+}
+
+.image-container img {
+    width: 100%;
+}
+
+footer {
+    padding-top: 20%;
+}

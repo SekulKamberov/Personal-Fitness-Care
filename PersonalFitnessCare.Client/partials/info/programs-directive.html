@@ -1,0 +1,48 @@
+﻿<form class="form-horizontal col-md-10" name="muscleSplitForm">
+
+    <h1>Add your training day:</h1>
+
+        <h2>Select your muscle</h2>
+
+    <fieldset data-ng-repeat="choice in basedetails">
+
+        <select name="singleSelect" id="singleSelect" ng-model="choice.day">
+            <option value="">-- Day --</option>
+            <option value="Monday">Monday</option>
+            <option value="Tuesday">Tuesday</option>
+            <option value="Wednesday">Wednesday</option>
+            <option value="Thursday">Thursday</option>
+            <option value="Friday">Friday</option>
+            <option value="Saturday">Saturday</option>
+            <option value="Sunday">Sunday</option>
+        </select>
+
+
+        <select name="singleSelect" id="singleSelect" ng-model="choice.muscleGroup">
+            <option value="">-- Muscle --</option>
+            <option value="Biceps">Biceps</option>
+            <option value="Chest">Chest</option>
+            <option value="Showders">Showders</option>
+            <option value="ABS">ABS</option>
+            <option value="Legs">Legs</option>
+            <option value="Calvs">Calvs</option>
+            <option value="Back">Back</option>
+            <option value="Triceps">Triceps</option>
+            <option value="Traps">Traps</option>
+            <option value="Gluteus">Gluteus</option>
+        </select>
+        <input type="text" ng-model="choice.first" name="" placeholder="Main exercise">
+        <input type="text" ng-model="choice.second" name="" placeholder="Second exercise">
+        <input type="text" ng-model="choice.third" name="" placeholder="Third exercise">
+        <input type="text" ng-model="choice.forth" name="" placeholder="Forth exercise">
+
+        <button class="remove" ng-show="$last" ng-click="removeChoice()">-</button>
+    </fieldset>
+        <button class="addfields" ng-click="addNewChoice()">Add Muscle</button>
+        <button class="button" ng-click="submitMuscleSplit(basedetails)">Submit</button>
+
+        <div id="choicesDisplay">
+            {{ basedetails }}
+        </div>
+
+</form>

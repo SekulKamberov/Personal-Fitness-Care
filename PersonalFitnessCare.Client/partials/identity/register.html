@@ -1,0 +1,205 @@
+﻿<div class="row col-md-10 col-md-offset-2">
+    <div class="register">
+
+            <form class="form-horizontal col-md-10" name="registerForm">
+                <!--<fieldset class="col-md-12">-->
+
+                <div class="templatemo-other-signin col-md-12">
+
+                    <div class="row col-md-12">
+                        <div>
+                            <h1>Your Professional Care</h1>
+                            <h2>Please, add your details correctly</h2>
+                            <h3 class="text-center error" ng-show="registerForm.$invalid && registerForm.$dirty">Write all fields</h3><br /><br />
+                        </div>
+                    </div>
+
+                    <div class="templatemo-other-signin col-md-5">
+                        <div class="form-group">
+                            <label for="DisplayName" class="col-md-4 control-label">Display name</label>
+                            <div class="col-md-6">
+                                <input type="text" ng-model="user.DisplayName" class="form-control" id="displayName" required="required" placeholder="Display name">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="displayName" class="col-md-4 control-label">Name</label>
+                            <div class="col-md-6">
+                                <input type="text" ng-model="user.FirstName" class="form-control" id="firstName" required="required" placeholder="First name">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="surname" class="col-md-4 control-label">Surname</label>
+                            <div class="col-md-6">
+                                <input type="text" ng-model="user.LastName" class="form-control" id="lastName" required="required" placeholder="Surname">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="displayName" class="col-md-4 control-label">Country</label>
+                            <div class="col-md-6">
+                                <select class="form-control" ng-model="user.Country" id="country" required="required">
+                                    <option value="" selected="selected"></option>
+                                    <option value="0">Russia</option>
+                                    <option value="1">Bulgaria</option>
+                                    <option value="2">France</option>
+                                    <option value="3">USA</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="displayName" class="col-md-4 control-label">Gander</label>
+                            <div class="col-md-6">
+                                <select class="form-control" ng-model="user.Gander" id="breed">
+                                    <option value="">Select gander</option>
+                                    <option value="0">Woman</option>
+                                    <option value="1">Man</option>
+                                </select>
+                            </div>
+                        </div>
+                        <!--<div class="form-group">
+                            <label for="displayName" class="col-md-4 control-label">Objectives</label>
+                            <div class="col-md-6">
+                                <select class="form-control" ng-model="user.Objectives" id="objectives" required="required">
+                                    <option value="" selected="selected"></option>
+                                    <option value="0">Slim</option>
+                                    <option value="1">Muscles</option>
+                                    <option value="2">Both</option>
+                                </select>
+                            </div>
+                        </div>-->
+                        <div class="form-group">
+                            <label for="inputEmail" class="col-md-4 control-label">Email</label>
+                            <div class="col-md-6">
+                                <input type="text" ng-model="user.email" class="form-control" id="inputEmail" required="required" placeholder="Email">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="inputPassword" class="col-md-4 control-label">Password</label>
+                            <div class="col-md-6">
+                                <input type="password" ng-model="user.password" class="form-control" id="inputPassword" required="required" placeholder="Password">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="confirmPassword" class="col-md-4 control-label">Confirm Password</label>
+                            <div class="col-md-6">
+                                <input type="password" ng-model="user.confirmPassword" class="form-control" id="confirmPassword" required="required" placeholder="Confirm Password">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="templatemo-one-signin col-md-5">
+
+                        <div class="form-group">
+                            <label for="experience" class="col-md-6 control-label">Experience leval</label>
+                            <div class="col-md-6">
+                                <div class="templatemo-input-icon-container">
+                                    <select class="form-control" ng-model="user.FitnessExperience" id="experience">
+                                        <option value="">Select level</option>
+                                        <option value="0">Beginner</option>
+                                        <option value="1">Intermediate</option>
+                                        <option value="2">Advanced</option>
+                                        <!--<option value="3">Professional</option>-->
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+
+                            <label for="intensity" class="col-md-6 control-label">Intensity level</label>
+                            <div class="col-md-6">
+                                <div class="templatemo-input-icon-container">
+                                    <select class="form-control" ng-model="user.IntensityLevel" id="intensity">
+                                        <option value="">Select level</option>
+                                        <option value="0">Slow</option>
+                                        <option value="1">Middle</option>
+                                        <option value="2">Fantastic</option>
+                                        <!--<option value="3">Professional</option>
+                            <option value="4">Extreame</option>-->
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+
+                            <label for="workouts" class="col-md-6 control-label">Weekly workouts</label>
+                            <div class="col-md-6">
+                                <div class="templatemo-input-icon-container">
+                                    <i class="fa fa-user"></i>
+                                    <input type="number" ng-model="user.workouts" class="form-control" id="workouts" required="required" placeholder="workouts">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+
+                            <label for="goaltime" class="col-md-6 control-label">Goals in months</label>
+                            <div class="col-md-6">
+                                <div class="templatemo-input-icon-container">
+                                    <i class="fa fa-user"></i>
+                                    <input type="number" ng-model="user.goaltime" class="form-control" id="goaltime" required="required" placeholder="goaltime">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+
+                            <label for="objectives" class="col-md-6 control-label">Your objectives</label>
+                            <div class="col-md-6">
+                                <div class="templatemo-input-icon-container">
+                                    <select class="form-control" ng-model="user.objectives" id="objectives">
+                                        <option value="">Select objectives</option>
+                                        <option value="0">Slim</option>
+                                        <option value="1">Muscles</option>
+                                        <option value="2">Both</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label for="activity" class="col-md-6 control-label">Your Sport</label>
+                            <div class="col-md-6">
+                                <div class="templatemo-input-icon-container">
+                                    <select class="form-control" ng-model="user.activity" id="activity">
+                                        <option value="">Select activity</option>
+                                        <option value="0">Running</option>
+                                        <option value="1">Bodybuilding</option>
+                                        <option value="2">Swiming</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+
+                            <label for="cardioActivity" class="col-md-6 control-label">Cardio training</label>
+                            <div class="col-md-6">
+                                <div class="templatemo-input-icon-container">
+                                    <select class="form-control" ng-model="user.CardioActivity" id="cardioActivity">
+                                        <option value="">Select cardioActivity</option>
+                                        <option value="0">Running</option>
+                                        <option value="1">Wallking</option>
+                                        <option value="2">Swimming</option>
+                                        <option value="3">Boxing</option>
+                                        <option value="4">Danceing</option>
+                                    </select> <br /> <br /><br /> <br /><br />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="form-group">
+            <div class="col-md-12">
+                <label for="password" class="control-label">Tell us more about you</label>
+                <textarea class="form-control form-rounded" rows="10"></textarea>
+            </div>
+        </div>-->
+                    <!--</fieldset>-->
+                <div class="form-group">
+                    <div class="col-md-4 col-md-offset-5">
+                        <button ng-click="vm.register(user, registerForm)" ng-disabled="registerForm.$invalid || user.password != user.confirmPassword" class="btn btn-primary">Submit</button>
+                    </div>
+                </div>
+        </div>
+</form>
+
+    </div>
+</div>
