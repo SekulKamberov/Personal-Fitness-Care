@@ -1,1 +1,1 @@
-ASP WEB API with Angular JS client
+ASP.NET WEB API server with Angular JS client
